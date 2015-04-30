@@ -1,0 +1,8 @@
+Package: sparkler
+Title: Tufte Sparklines from GGplot Objects
+Version: 0.1
+Authors@R: person("Joe", "Tidwell", , "joetidwell@gmail.com", role = c("aut", "cre"))
+Description: Sparklines are awesome, and in theory useful. This package enables one to create inline sparklines for latex documents using ggplot objects.
+Depends: R (>= 3.2.0)
+License: Gnu something or other
+LazyData: true
